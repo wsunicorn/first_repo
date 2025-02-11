@@ -1,0 +1,9 @@
+
+# Bỏ qua tất cả các file .log
+*.log
+
+# Bỏ qua thư mục temp/ và toàn bộ nội dung bên trong
+temp/
+
+# Bỏ qua một file cụ thể
+secret.txt
